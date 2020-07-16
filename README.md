@@ -7,7 +7,7 @@
   <a href="https://vuejs.org">
     <img src="https://img.shields.io/badge/vue-2.6.11-brightgreen.svg" alt="vue">
   </a>
-  <a href="https://github.com/tuandm/laravue/blob/master/LICENSE">
+  <a href="https://github.com/wirgen/laravel-vue-spa/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg" alt="license">
   </a>
 </p>
